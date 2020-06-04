@@ -1,0 +1,1 @@
+{"type": 1, "id": "718181936371335238", "name": "Test Bot", "avatar": "9f0545a4590cc8dddfd3dbaf2a324b74", "channel_id": "716367903926255657", "guild_id": "716364694205759682", "token": "AyLq_qDrnGWnT9EsCuKKiehngnNExcujATGgIoWFXMG5ios3t-AAbe2ztUlpE9t9z_-F"}
